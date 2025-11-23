@@ -54,7 +54,7 @@ To generate a 4-digit treasure code using sum, difference, product, and modulus 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Abinav  Sankar S
+Developed by: Abinav Sankar S
 RegisterNumber:  212222040002
 */
 ```
@@ -86,3 +86,4 @@ RegisterNumber:  212222040002
 
 ## RESULT:
 Thus, the treasure code is successfully generated based on the given logic.
+
