@@ -12,6 +12,7 @@ Input	Result
 * * *
 
 
+
 ## AIM:
 To display a right-angled triangle pattern using stars.
 
@@ -58,3 +59,4 @@ public class Sourcecode {
 
 ## RESULT:
 The right-angled triangle star pattern is printed successfully.
+
