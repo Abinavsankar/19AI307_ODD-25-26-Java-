@@ -44,7 +44,7 @@ RegisterNumber:  212222040002
 ```
 
 ## SOURCE CODE:
-
+```
 import java.util.Scanner;
 
 public class Sourcecode {
@@ -70,7 +70,7 @@ public class Sourcecode {
 
 
 
-
+```
 
 
 ## OUTPUT:
@@ -80,3 +80,4 @@ public class Sourcecode {
 
 ## RESULT:
 The program correctly counts positive, negative, and zero elements in the array.
+
